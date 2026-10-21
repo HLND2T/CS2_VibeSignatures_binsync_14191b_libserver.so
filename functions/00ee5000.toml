@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591658Z
+addr = 0xee5000
+size = 0x259
+name = "GetCSWeaponDataFromKey"
+type = "long long"
+
+[header]
+name = "GetCSWeaponDataFromKey"
+addr = 0xee5000
+type = "long long"
+
+[header.args]

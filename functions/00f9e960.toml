@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.591804Z
+addr = 0xf9e960
+size = 0x5
+name = "CBaseModelEntity_ScriptSetMaterialGroupHash"
+
+[header]
+name = "CBaseModelEntity_ScriptSetMaterialGroupHash"
+addr = 0xf9e960
+
+[header.args]

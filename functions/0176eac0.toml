@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:28.639309Z
+addr = 0x176eac0
+size = 0xbc
+name = "CEntity2NetworkClasses_ServerClass_InitEntity2NetworkClasses"
+type = "long long"
+
+[header]
+name = "CEntity2NetworkClasses_ServerClass_InitEntity2NetworkClasses"
+addr = 0x176eac0
+type = "long long"
+
+[header.args]

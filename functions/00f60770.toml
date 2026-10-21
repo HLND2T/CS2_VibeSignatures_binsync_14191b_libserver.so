@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591717Z
+addr = 0xf60770
+size = 0x410
+name = "CSpawnGroupMgrGameSystem_SpawnGroupSpawnEntities"
+type = "unsigned int *"
+
+[header]
+name = "CSpawnGroupMgrGameSystem_SpawnGroupSpawnEntities"
+addr = 0xf60770
+type = "unsigned int *"
+
+[header.args]

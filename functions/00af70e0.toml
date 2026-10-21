@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:20.813058Z
+addr = 0xaf70e0
+size = 0xd74
+name = "CNetworkUtlVectorEmbedded_NetworkStateChanged_m_perRoundStats"
+type = "long long"
+
+[header]
+name = "CNetworkUtlVectorEmbedded_NetworkStateChanged_m_perRoundStats"
+addr = 0xaf70e0
+type = "long long"
+
+[header.args]

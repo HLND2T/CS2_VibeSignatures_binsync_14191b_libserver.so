@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591499Z
+addr = 0xa7b870
+size = 0x156
+name = "NetworkStateChanged"
+type = "long long"
+
+[header]
+name = "NetworkStateChanged"
+addr = 0xa7b870
+type = "long long"
+
+[header.args]

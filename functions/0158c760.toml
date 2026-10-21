@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591925Z
+addr = 0x158c760
+size = 0x267
+name = "CCSPlayer_MovementServices_AirAccelerate"
+type = "float *"
+
+[header]
+name = "CCSPlayer_MovementServices_AirAccelerate"
+addr = 0x158c760
+type = "float *"
+
+[header.args]

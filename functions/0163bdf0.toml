@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592022Z
+addr = 0x163bdf0
+size = 0x56
+name = "CBasePlayerController_GetPawn"
+type = "long long"
+
+[header]
+name = "CBasePlayerController_GetPawn"
+addr = 0x163bdf0
+type = "long long"
+
+[header.args]

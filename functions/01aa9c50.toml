@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592496Z
+addr = 0x1aa9c50
+size = 0x82
+name = "CPhysBox_Use"
+type = "long long"
+
+[header]
+name = "CPhysBox_Use"
+addr = 0x1aa9c50
+type = "long long"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.591825Z
+addr = 0xfaac40
+size = 0x28f
+name = "CBaseEntity_ScriptHasAttribute"
+
+[header]
+name = "CBaseEntity_ScriptHasAttribute"
+addr = 0xfaac40
+
+[header.args]

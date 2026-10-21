@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592052Z
+addr = 0x16820d0
+size = 0x583
+name = "CBasePlayerController_ProcessUsercmds"
+type = "long long"
+
+[header]
+name = "CBasePlayerController_ProcessUsercmds"
+addr = 0x16820d0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592159Z
+addr = 0x17541a0
+size = 0x17b
+name = "CGameEventManager_AddListener"
+type = "long long"
+
+[header]
+name = "CGameEventManager_AddListener"
+addr = 0x17541a0
+type = "long long"
+
+[header.args]

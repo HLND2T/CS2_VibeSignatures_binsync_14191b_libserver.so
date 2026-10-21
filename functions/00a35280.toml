@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591484Z
+addr = 0xa35280
+size = 0x1e
+name = "CBaseEntity_GetEyeAngles"
+type = "long long"
+
+[header]
+name = "CBaseEntity_GetEyeAngles"
+addr = 0xa35280
+type = "long long"
+
+[header.args]

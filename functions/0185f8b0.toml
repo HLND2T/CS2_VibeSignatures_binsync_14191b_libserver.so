@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.592310Z
+addr = 0x185f8b0
+size = 0x26
+name = "CBaseEntity_ScriptGetMass"
+
+[header]
+name = "CBaseEntity_ScriptGetMass"
+addr = 0x185f8b0
+
+[header.args]

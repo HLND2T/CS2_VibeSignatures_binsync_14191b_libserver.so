@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.591480Z
+addr = 0xa32770
+size = 0x1
+name = "IGameSystem_OnRestoreGame"
+
+[header]
+name = "IGameSystem_OnRestoreGame"
+addr = 0xa32770
+
+[header.args]

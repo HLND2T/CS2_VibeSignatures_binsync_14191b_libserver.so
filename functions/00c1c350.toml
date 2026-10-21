@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591587Z
+addr = 0xc1c350
+size = 0x25
+name = "CCSBot_MoveTo"
+type = "void *"
+
+[header]
+name = "CCSBot_MoveTo"
+addr = 0xc1c350
+type = "void *"
+
+[header.args]

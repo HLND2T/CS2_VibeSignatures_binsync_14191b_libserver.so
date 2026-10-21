@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592429Z
+addr = 0x19a7f90
+size = 0x11f
+name = "CSource2GameClients_ClientCommand"
+type = "long long"
+
+[header]
+name = "CSource2GameClients_ClientCommand"
+addr = 0x19a7f90
+type = "long long"
+
+[header.args]

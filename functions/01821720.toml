@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592254Z
+addr = 0x1821720
+size = 0x726
+name = "CSkeletonInstance_PostDataUpdate"
+type = "long long"
+
+[header]
+name = "CSkeletonInstance_PostDataUpdate"
+addr = 0x1821720
+type = "long long"
+
+[header.args]

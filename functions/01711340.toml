@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592101Z
+addr = 0x1711340
+size = 0x1b4
+name = "CEntitySaveRestoreBlockHandler_RestoreEntity"
+type = "long long"
+
+[header]
+name = "CEntitySaveRestoreBlockHandler_RestoreEntity"
+addr = 0x1711340
+type = "long long"
+
+[header.args]

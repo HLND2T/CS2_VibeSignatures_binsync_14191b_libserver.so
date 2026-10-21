@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.591776Z
+addr = 0xf9e660
+size = 0x1e
+name = "CBaseEntity_ScriptGetAbsOrigin"
+
+[header]
+name = "CBaseEntity_ScriptGetAbsOrigin"
+addr = 0xf9e660
+
+[header.args]

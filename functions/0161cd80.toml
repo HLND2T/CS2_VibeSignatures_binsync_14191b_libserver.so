@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:26.300246Z
+addr = 0x161cd80
+size = 0x205
+name = "CCSPlayerPawn_OnTakeDamage"
+type = "long long (__fastcall *)()"
+
+[header]
+name = "CCSPlayerPawn_OnTakeDamage"
+addr = 0x161cd80
+type = "long long (__fastcall *)()"
+
+[header.args]

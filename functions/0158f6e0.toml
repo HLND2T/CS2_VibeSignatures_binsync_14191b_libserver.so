@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591927Z
+addr = 0x158f6e0
+size = 0x1929
+name = "CCSPlayer_MovementServices_TryPlayerMove"
+type = "char"
+
+[header]
+name = "CCSPlayer_MovementServices_TryPlayerMove"
+addr = 0x158f6e0
+type = "char"
+
+[header.args]

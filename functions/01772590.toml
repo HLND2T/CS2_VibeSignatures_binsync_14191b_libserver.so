@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.592172Z
+addr = 0x1772590
+size = 0x71
+name = "NET_ReloadGameEvents_CommandHandler"
+
+[header]
+name = "NET_ReloadGameEvents_CommandHandler"
+addr = 0x1772590
+
+[header.args]

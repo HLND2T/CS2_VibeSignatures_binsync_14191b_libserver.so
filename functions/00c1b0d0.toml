@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591581Z
+addr = 0xc1b0d0
+size = 0x87a
+name = "CCSBotManager_BotPlaceCommand"
+type = "long long"
+
+[header]
+name = "CCSBotManager_BotPlaceCommand"
+addr = 0xc1b0d0
+type = "long long"
+
+[header.args]

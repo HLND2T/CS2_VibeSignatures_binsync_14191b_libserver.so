@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592340Z
+addr = 0x18afb60
+size = 0x497
+name = "CBaseEntity_UpdateOnRemove"
+type = "long long"
+
+[header]
+name = "CBaseEntity_UpdateOnRemove"
+addr = 0x18afb60
+type = "long long"
+
+[header.args]

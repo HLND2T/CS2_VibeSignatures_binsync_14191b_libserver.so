@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591651Z
+addr = 0xd87340
+size = 0x204
+name = "CBaseEntity_Precache"
+type = "long long"
+
+[header]
+name = "CBaseEntity_Precache"
+addr = 0xd87340
+type = "long long"
+
+[header.args]

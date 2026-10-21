@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591620Z
+addr = 0xd37370
+size = 0x2f5
+name = "CBaseTrigger_PassesTriggerFilters"
+type = "char"
+
+[header]
+name = "CBaseTrigger_PassesTriggerFilters"
+addr = 0xd37370
+type = "char"
+
+[header.args]

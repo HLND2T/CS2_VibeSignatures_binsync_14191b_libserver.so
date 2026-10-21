@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592373Z
+addr = 0x198edd0
+size = 0x3d
+name = "CSource2Server_GetActiveWorldName"
+type = "const char *"
+
+[header]
+name = "CSource2Server_GetActiveWorldName"
+addr = 0x198edd0
+type = "const char *"
+
+[header.args]

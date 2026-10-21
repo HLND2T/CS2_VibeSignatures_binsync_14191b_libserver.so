@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.592280Z
+addr = 0x185c7e0
+size = 0x20c
+name = "CBaseEntity_ScriptGetBounds"
+
+[header]
+name = "CBaseEntity_ScriptGetBounds"
+addr = 0x185c7e0
+
+[header.args]

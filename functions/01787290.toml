@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.592201Z
+addr = 0x1787290
+size = 0x27
+name = "CLoopModeFactory_CLoopModeGame_CreateLoopMode"
+
+[header]
+name = "CLoopModeFactory_CLoopModeGame_CreateLoopMode"
+addr = 0x1787290
+
+[header.args]

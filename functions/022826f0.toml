@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592565Z
+addr = 0x22826f0
+size = 0x22
+name = "CEntityInstance_PostDataUpdateDelta"
+type = "long long (*)(void)"
+
+[header]
+name = "CEntityInstance_PostDataUpdateDelta"
+addr = 0x22826f0
+type = "long long (*)(void)"
+
+[header.args]

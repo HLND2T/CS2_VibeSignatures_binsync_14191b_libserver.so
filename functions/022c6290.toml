@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:34.833936Z
+addr = 0x22c6290
+size = 0x54
+name = "CEntitySystem_FindComponentTypeByName"
+type = "long long"
+
+[header]
+name = "CEntitySystem_FindComponentTypeByName"
+addr = 0x22c6290
+type = "long long"
+
+[header.args]

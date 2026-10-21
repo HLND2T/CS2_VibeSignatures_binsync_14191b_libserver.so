@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:27.603219Z
+addr = 0x17081a0
+size = 0x620
+name = "CGameEventManager_SerializeEvent"
+type = "long long"
+
+[header]
+name = "CGameEventManager_SerializeEvent"
+addr = 0x17081a0
+type = "long long"
+
+[header.args]

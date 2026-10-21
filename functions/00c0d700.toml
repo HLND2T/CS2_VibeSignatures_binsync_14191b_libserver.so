@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591572Z
+addr = 0xc0d700
+size = 0x1c
+name = "CCSBot_SetDisposition"
+type = "long long"
+
+[header]
+name = "CCSBot_SetDisposition"
+addr = 0xc0d700
+type = "long long"
+
+[header.args]

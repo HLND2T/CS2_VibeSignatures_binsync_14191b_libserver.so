@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592225Z
+addr = 0x17ad7f0
+size = 0x416
+name = "CLoopModeGame_RegisterEventMapInternal"
+type = "long long"
+
+[header]
+name = "CLoopModeGame_RegisterEventMapInternal"
+addr = 0x17ad7f0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591699Z
+addr = 0xf47e90
+size = 0x492
+name = "CSpawnGroupMgrGameSystem_SpawnGroupInit"
+type = "long long"
+
+[header]
+name = "CSpawnGroupMgrGameSystem_SpawnGroupInit"
+addr = 0xf47e90
+type = "long long"
+
+[header.args]

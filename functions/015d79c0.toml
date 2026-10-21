@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591971Z
+addr = 0x15d79c0
+size = 0x6a9
+name = "CCSPlayer_MovementServices_AirMove"
+type = "void"
+
+[header]
+name = "CCSPlayer_MovementServices_AirMove"
+addr = 0x15d79c0
+type = "void"
+
+[header.args]

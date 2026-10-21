@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592081Z
+addr = 0x16fa390
+size = 0x2de
+name = "CEntity2SaveRestore_EndRestoreEntities"
+type = "long long"
+
+[header]
+name = "CEntity2SaveRestore_EndRestoreEntities"
+addr = 0x16fa390
+type = "long long"
+
+[header.args]

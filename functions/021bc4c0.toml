@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:33.592725Z
+addr = 0x21bc4c0
+size = 0x43
+name = "CLoopModeRegistry_UnregisterLoopModes"
+type = "long long"
+
+[header]
+name = "CLoopModeRegistry_UnregisterLoopModes"
+addr = 0x21bc4c0
+type = "long long"
+
+[header.args]

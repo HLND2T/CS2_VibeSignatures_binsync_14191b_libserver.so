@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592283Z
+addr = 0x185cf30
+size = 0x11c
+name = "CBaseCombatCharacter_OnKilled"
+type = "long long"
+
+[header]
+name = "CBaseCombatCharacter_OnKilled"
+addr = 0x185cf30
+type = "long long"
+
+[header.args]

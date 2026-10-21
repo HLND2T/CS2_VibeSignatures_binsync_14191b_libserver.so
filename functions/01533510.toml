@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591894Z
+addr = 0x1533510
+size = 0x167
+name = "FireBulletImpactEvent"
+type = "long long"
+
+[header]
+name = "FireBulletImpactEvent"
+addr = 0x1533510
+type = "long long"
+
+[header.args]

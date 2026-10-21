@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592214Z
+addr = 0x1791860
+size = 0x2d7
+name = "CLoopModeGame_OnServerBeginAsyncPostTickWork"
+type = "long long (__fastcall *)()"
+
+[header]
+name = "CLoopModeGame_OnServerBeginAsyncPostTickWork"
+addr = 0x1791860
+type = "long long (__fastcall *)()"
+
+[header.args]

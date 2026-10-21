@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592043Z
+addr = 0x1665f40
+size = 0xa85
+name = "CBaseModelEntity_SetRenderAttribute"
+type = "void"
+
+[header]
+name = "CBaseModelEntity_SetRenderAttribute"
+addr = 0x1665f40
+type = "void"
+
+[header.args]

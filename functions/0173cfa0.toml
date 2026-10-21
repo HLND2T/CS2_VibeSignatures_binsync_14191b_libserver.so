@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592146Z
+addr = 0x173cfa0
+size = 0x2dd
+name = "CLoadingSpawnGroup_CreateEntityToSpawn"
+type = "const __m128i *"
+
+[header]
+name = "CLoadingSpawnGroup_CreateEntityToSpawn"
+addr = 0x173cfa0
+type = "const __m128i *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591975Z
+addr = 0x15e21e0
+size = 0x212
+name = "CCSPlayer_WeaponServices_SelectItem"
+type = "long long"
+
+[header]
+name = "CCSPlayer_WeaponServices_SelectItem"
+addr = 0x15e21e0
+type = "long long"
+
+[header.args]

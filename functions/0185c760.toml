@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.592278Z
+addr = 0x185c760
+size = 0x7e
+name = "CBaseEntity_ScriptGetBoundingMaxs"
+
+[header]
+name = "CBaseEntity_ScriptGetBoundingMaxs"
+addr = 0x185c760
+
+[header.args]

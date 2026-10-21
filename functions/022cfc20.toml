@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:35.257220Z
+addr = 0x22cfc20
+size = 0x28d
+name = "CEntitySystem_DestroyEntityImmediate"
+type = "void"
+
+[header]
+name = "CEntitySystem_DestroyEntityImmediate"
+addr = 0x22cfc20
+type = "void"
+
+[header.args]

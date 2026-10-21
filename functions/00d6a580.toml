@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591646Z
+addr = 0xd6a580
+size = 0x111
+name = "CBaseEntity_Teleport"
+type = "long long"
+
+[header]
+name = "CBaseEntity_Teleport"
+addr = 0xd6a580
+type = "long long"
+
+[header.args]

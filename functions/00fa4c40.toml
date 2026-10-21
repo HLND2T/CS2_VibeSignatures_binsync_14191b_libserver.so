@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.591821Z
+addr = 0xfa4c40
+size = 0x70
+name = "CBaseEntity_ScriptGetLeft"
+
+[header]
+name = "CBaseEntity_ScriptGetLeft"
+addr = 0xfa4c40
+
+[header.args]

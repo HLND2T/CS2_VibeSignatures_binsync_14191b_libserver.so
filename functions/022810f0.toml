@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:33.677290Z
+addr = 0x22810f0
+size = 0x505
+name = "CEntityIdentity_AcceptInputInternal"
+type = "long long"
+
+[header]
+name = "CEntityIdentity_AcceptInputInternal"
+addr = 0x22810f0
+type = "long long"
+
+[header.args]

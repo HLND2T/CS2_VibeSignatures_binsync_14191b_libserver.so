@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592199Z
+addr = 0x1786f20
+size = 0x370
+name = "CLoopModeGame_ctor"
+type = "long long"
+
+[header]
+name = "CLoopModeGame_ctor"
+addr = 0x1786f20
+type = "long long"
+
+[header.args]

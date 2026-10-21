@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592554Z
+addr = 0x2280c00
+size = 0x39e
+name = "CEntityIdentity_SetEntityName"
+type = "long long"
+
+[header]
+name = "CEntityIdentity_SetEntityName"
+addr = 0x2280c00
+type = "long long"
+
+[header.args]

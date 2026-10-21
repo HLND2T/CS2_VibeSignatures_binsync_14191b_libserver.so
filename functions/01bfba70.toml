@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592543Z
+addr = 0x1bfba70
+size = 0x4f5
+name = "CTriggerPush_Touch"
+type = "long long"
+
+[header]
+name = "CTriggerPush_Touch"
+addr = 0x1bfba70
+type = "long long"
+
+[header.args]

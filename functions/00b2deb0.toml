@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591538Z
+addr = 0xb2deb0
+size = 0x2ad
+name = "ScriptBinding_Entity_SetEntityName"
+type = "long long"
+
+[header]
+name = "ScriptBinding_Entity_SetEntityName"
+addr = 0xb2deb0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592557Z
+addr = 0x2281c40
+size = 0xa6
+name = "CEntityIdentity_FreeAttributes"
+type = "void"
+
+[header]
+name = "CEntityIdentity_FreeAttributes"
+addr = 0x2281c40
+type = "void"
+
+[header.args]

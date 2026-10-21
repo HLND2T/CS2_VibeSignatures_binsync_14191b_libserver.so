@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591521Z
+addr = 0xaead40
+size = 0x1371
+name = "CCSPlayerPawn_SprayPaint"
+type = "void"
+
+[header]
+name = "CCSPlayerPawn_SprayPaint"
+addr = 0xaead40
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591579Z
+addr = 0xc1ada0
+size = 0x31c
+name = "CCSBotManager_StartFrame"
+type = "void"
+
+[header]
+name = "CCSBotManager_StartFrame"
+addr = 0xc1ada0
+type = "void"
+
+[header.args]

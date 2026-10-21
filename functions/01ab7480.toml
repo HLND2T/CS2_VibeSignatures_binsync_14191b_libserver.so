@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:33.111737Z
+addr = 0x1ab7480
+size = 0x79c
+name = "CPointTeleportAPI_TeleportEntityInternal"
+type = "long long"
+
+[header]
+name = "CPointTeleportAPI_TeleportEntityInternal"
+addr = 0x1ab7480
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592112Z
+addr = 0x17149c0
+size = 0x1c9
+name = "CGameEntitySystem_Spawn"
+type = "long long"
+
+[header]
+name = "CGameEntitySystem_Spawn"
+addr = 0x17149c0
+type = "long long"
+
+[header.args]

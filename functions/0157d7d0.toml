@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591915Z
+addr = 0x157d7d0
+size = 0x1f8
+name = "CCSPlayerController_PlayerForceTeamThink"
+type = "void"
+
+[header]
+name = "CCSPlayerController_PlayerForceTeamThink"
+addr = 0x157d7d0
+type = "void"
+
+[header.args]

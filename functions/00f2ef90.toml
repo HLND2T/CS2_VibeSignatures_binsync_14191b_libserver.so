@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:22.616820Z
+addr = 0xf2ef90
+size = 0x1c0
+name = "Script_CommandLineInt"
+type = "long long"
+
+[header]
+name = "Script_CommandLineInt"
+addr = 0xf2ef90
+type = "long long"
+
+[header.args]

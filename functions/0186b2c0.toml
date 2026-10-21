@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592320Z
+addr = 0x186b2c0
+size = 0x32a
+name = "CMomentaryRotButton_Use"
+type = "void"
+
+[header]
+name = "CMomentaryRotButton_Use"
+addr = 0x186b2c0
+type = "void"
+
+[header.args]

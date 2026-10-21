@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.591496Z
+addr = 0xa5c5a0
+size = 0x3
+name = "CGameSceneNode_GetSkeletonInstance"
+
+[header]
+name = "CGameSceneNode_GetSkeletonInstance"
+addr = 0xa5c5a0
+
+[header.args]

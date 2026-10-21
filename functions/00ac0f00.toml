@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591505Z
+addr = 0xac0f00
+size = 0xa6
+name = "CSource2Server_GetMatchmakingGameData"
+type = "const char *"
+
+[header]
+name = "CSource2Server_GetMatchmakingGameData"
+addr = 0xac0f00
+type = "const char *"
+
+[header.args]

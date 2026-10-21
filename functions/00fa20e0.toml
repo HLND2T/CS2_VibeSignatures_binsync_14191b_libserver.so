@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.591813Z
+addr = 0xfa20e0
+size = 0x2b2
+name = "CBaseEntity_ScriptTransformPointWorldToEntity"
+
+[header]
+name = "CBaseEntity_ScriptTransformPointWorldToEntity"
+addr = 0xfa20e0
+
+[header.args]

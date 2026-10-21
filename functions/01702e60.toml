@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592085Z
+addr = 0x1702e60
+size = 0x247
+name = "CGameEventManager_RemoveListener"
+type = "volatile signed int *"
+
+[header]
+name = "CGameEventManager_RemoveListener"
+addr = 0x1702e60
+type = "volatile signed int *"
+
+[header.args]

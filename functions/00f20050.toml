@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591689Z
+addr = 0xf20050
+size = 0x30e
+name = "CSpawnGroupMgrGameSystem_SaveGame_Start"
+type = "long long"
+
+[header]
+name = "CSpawnGroupMgrGameSystem_SaveGame_Start"
+addr = 0xf20050
+type = "long long"
+
+[header.args]

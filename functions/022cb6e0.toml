@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592640Z
+addr = 0x22cb6e0
+size = 0x303
+name = "CConcreteEntityList_AllocEntity"
+type = "unsigned long long *"
+
+[header]
+name = "CConcreteEntityList_AllocEntity"
+addr = 0x22cb6e0
+type = "unsigned long long *"
+
+[header.args]

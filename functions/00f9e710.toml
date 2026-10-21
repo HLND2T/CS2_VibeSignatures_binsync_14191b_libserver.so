@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.591783Z
+addr = 0xf9e710
+size = 0x38
+name = "CBaseEntity_ScriptSetForward"
+
+[header]
+name = "CBaseEntity_ScriptSetForward"
+addr = 0xf9e710
+
+[header.args]

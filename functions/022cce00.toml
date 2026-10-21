@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:35.085616Z
+addr = 0x22cce00
+size = 0x17f
+name = "CEntitySystem_ProcessEntityRegistration"
+type = "void"
+
+[header]
+name = "CEntitySystem_ProcessEntityRegistration"
+addr = 0x22cce00
+type = "void"
+
+[header.args]

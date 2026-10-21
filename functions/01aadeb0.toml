@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592509Z
+addr = 0x1aadeb0
+size = 0x1a6
+name = "CPlayerCommandQueue_ctor"
+type = "long long"
+
+[header]
+name = "CPlayerCommandQueue_ctor"
+addr = 0x1aadeb0
+type = "long long"
+
+[header.args]

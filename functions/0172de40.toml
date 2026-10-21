@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:28.361656Z
+addr = 0x172de40
+size = 0x1588
+name = "CGameSceneNode_PostSpawnKeyValues"
+type = "long long"
+
+[header]
+name = "CGameSceneNode_PostSpawnKeyValues"
+addr = 0x172de40
+type = "long long"
+
+[header.args]

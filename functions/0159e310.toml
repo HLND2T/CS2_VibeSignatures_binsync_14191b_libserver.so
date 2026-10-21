@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591940Z
+addr = 0x159e310
+size = 0x1d41
+name = "FindUseEntity"
+type = "long long"
+
+[header]
+name = "FindUseEntity"
+addr = 0x159e310
+type = "long long"
+
+[header.args]

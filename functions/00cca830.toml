@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591605Z
+addr = 0xcca830
+size = 0xb06
+name = "CHostage_DropHostage"
+type = "long long"
+
+[header]
+name = "CHostage_DropHostage"
+addr = 0xcca830
+type = "long long"
+
+[header.args]

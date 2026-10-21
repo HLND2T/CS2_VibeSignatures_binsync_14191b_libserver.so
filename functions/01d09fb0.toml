@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592545Z
+addr = 0x1d09fb0
+size = 0x3be
+name = "UTIL_ClientPrintFilter"
+type = "void (__fastcall *)(__m128i *, const __m128i *, long long)"
+
+[header]
+name = "UTIL_ClientPrintFilter"
+addr = 0x1d09fb0
+type = "void (__fastcall *)(__m128i *, const __m128i *, long long)"
+
+[header.args]

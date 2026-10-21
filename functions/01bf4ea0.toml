@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592537Z
+addr = 0x1bf4ea0
+size = 0x85
+name = "UTIL_ClientPrintAll"
+type = "long long"
+
+[header]
+name = "UTIL_ClientPrintAll"
+addr = 0x1bf4ea0
+type = "long long"
+
+[header.args]

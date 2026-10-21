@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:34.044826Z
+addr = 0x2289e10
+size = 0xaf
+name = "CEntityKeyValues_Initialized"
+type = "long long"
+
+[header]
+name = "CEntityKeyValues_Initialized"
+addr = 0x2289e10
+type = "long long"
+
+[header.args]

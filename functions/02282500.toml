@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592561Z
+addr = 0x2282500
+size = 0x8
+name = "CEntityInstance_Connect"
+type = "void"
+
+[header]
+name = "CEntityInstance_Connect"
+addr = 0x2282500
+type = "void"
+
+[header.args]

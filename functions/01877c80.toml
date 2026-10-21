@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592324Z
+addr = 0x1877c80
+size = 0x325
+name = "EntInfo_CommandHandler"
+type = "long long"
+
+[header]
+name = "EntInfo_CommandHandler"
+addr = 0x1877c80
+type = "long long"
+
+[header.args]

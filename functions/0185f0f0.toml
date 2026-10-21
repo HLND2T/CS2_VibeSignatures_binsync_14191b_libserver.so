@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.592302Z
+addr = 0x185f0f0
+size = 0x24f
+name = "CBaseEntity_Script_GetChildren"
+
+[header]
+name = "CBaseEntity_Script_GetChildren"
+addr = 0x185f0f0
+
+[header.args]

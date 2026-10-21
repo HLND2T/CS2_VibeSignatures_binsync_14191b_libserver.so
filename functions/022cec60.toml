@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:35.170017Z
+addr = 0x22cec60
+size = 0x87
+name = "CEntitySystem_OnRemoveEntityFromDatabase"
+type = "long long"
+
+[header]
+name = "CEntitySystem_OnRemoveEntityFromDatabase"
+addr = 0x22cec60
+type = "long long"
+
+[header.args]

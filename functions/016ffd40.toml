@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592083Z
+addr = 0x16ffd40
+size = 0xd5
+name = "CGameEventManager_FreeEvent"
+type = "long long"
+
+[header]
+name = "CGameEventManager_FreeEvent"
+addr = 0x16ffd40
+type = "long long"
+
+[header.args]

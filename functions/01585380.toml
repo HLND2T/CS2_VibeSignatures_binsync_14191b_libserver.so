@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591923Z
+addr = 0x1585380
+size = 0x1c
+name = "CCSPlayer_ItemServices_GiveNamedItemBool"
+type = "bool"
+
+[header]
+name = "CCSPlayer_ItemServices_GiveNamedItemBool"
+addr = 0x1585380
+type = "bool"
+
+[header.args]

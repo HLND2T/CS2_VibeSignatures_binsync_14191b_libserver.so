@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592441Z
+addr = 0x19b9280
+size = 0xf0
+name = "CSource2Server_Shutdown"
+type = "long long"
+
+[header]
+name = "CSource2Server_Shutdown"
+addr = 0x19b9280
+type = "long long"
+
+[header.args]

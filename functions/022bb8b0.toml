@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592608Z
+addr = 0x22bb8b0
+size = 0x63
+name = "CEntitySystem_AddRefKeyValues"
+type = "void"
+
+[header]
+name = "CEntitySystem_AddRefKeyValues"
+addr = 0x22bb8b0
+type = "void"
+
+[header.args]

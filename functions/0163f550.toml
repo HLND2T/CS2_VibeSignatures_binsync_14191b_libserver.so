@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592031Z
+addr = 0x163f550
+size = 0x1ea
+name = "CBasePlayerPawn_GetEyePosition"
+type = "__m128"
+
+[header]
+name = "CBasePlayerPawn_GetEyePosition"
+addr = 0x163f550
+type = "__m128"
+
+[header.args]

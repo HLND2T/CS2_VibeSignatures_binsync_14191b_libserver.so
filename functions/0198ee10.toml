@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592375Z
+addr = 0x198ee10
+size = 0x8b
+name = "CGameRules_GetSaveGameComment"
+type = "unsigned long long *"
+
+[header]
+name = "CGameRules_GetSaveGameComment"
+addr = 0x198ee10
+type = "unsigned long long *"
+
+[header.args]

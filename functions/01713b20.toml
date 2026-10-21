@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592108Z
+addr = 0x1713b20
+size = 0x9fa
+name = "CGameConfiguration_SetupGameSessionConfiguration"
+type = "long long"
+
+[header]
+name = "CGameConfiguration_SetupGameSessionConfiguration"
+addr = 0x1713b20
+type = "long long"
+
+[header.args]

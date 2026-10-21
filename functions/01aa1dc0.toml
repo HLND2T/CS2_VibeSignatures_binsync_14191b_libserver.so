@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592472Z
+addr = 0x1aa1dc0
+size = 0x1b5
+name = "CPointTeleport_Activate"
+type = "long long"
+
+[header]
+name = "CPointTeleport_Activate"
+addr = 0x1aa1dc0
+type = "long long"
+
+[header.args]

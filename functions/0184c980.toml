@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:30.079726Z
+addr = 0x184c980
+size = 0x693
+name = "GiveCommand"
+type = "unsigned long long *"
+
+[header]
+name = "GiveCommand"
+addr = 0x184c980
+type = "unsigned long long *"
+
+[header.args]

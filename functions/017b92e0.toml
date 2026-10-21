@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592233Z
+addr = 0x17b92e0
+size = 0x8b8
+name = "CPlayer_MovementServices_PlayWaterStepSound"
+type = "long long"
+
+[header]
+name = "CPlayer_MovementServices_PlayWaterStepSound"
+addr = 0x17b92e0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592005Z
+addr = 0x1637b90
+size = 0x29
+name = "CBaseModelEntity_FindBone"
+type = "long long"
+
+[header]
+name = "CBaseModelEntity_FindBone"
+addr = 0x1637b90
+type = "long long"
+
+[header.args]

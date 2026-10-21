@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591929Z
+addr = 0x15938e0
+size = 0x248
+name = "CCSPlayerPawn_HandleDropWeapon"
+type = "long long"
+
+[header]
+name = "CCSPlayerPawn_HandleDropWeapon"
+addr = 0x15938e0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591933Z
+addr = 0x1594880
+size = 0x26
+name = "CCSPlayerPawn_OnTakeDamage_Alive"
+type = "long long"
+
+[header]
+name = "CCSPlayerPawn_OnTakeDamage_Alive"
+addr = 0x1594880
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591860Z
+addr = 0x13e4350
+size = 0xe08
+name = "CCSGameRules_GoToIntermission"
+type = "long long"
+
+[header]
+name = "CCSGameRules_GoToIntermission"
+addr = 0x13e4350
+type = "long long"
+
+[header.args]

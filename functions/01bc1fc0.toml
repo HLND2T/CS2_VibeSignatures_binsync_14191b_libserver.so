@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592532Z
+addr = 0x1bc1fc0
+size = 0x3e
+name = "CTriggerGravity_GravityTouch"
+type = "void"
+
+[header]
+name = "CTriggerGravity_GravityTouch"
+addr = 0x1bc1fc0
+type = "void"
+
+[header.args]

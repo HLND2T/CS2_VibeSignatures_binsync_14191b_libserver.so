@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:27.104105Z
+addr = 0x1682660
+size = 0x669
+name = "CBasePlayerController_SetConnectedState"
+type = "long long"
+
+[header]
+name = "CBasePlayerController_SetConnectedState"
+addr = 0x1682660
+type = "long long"
+
+[header.args]

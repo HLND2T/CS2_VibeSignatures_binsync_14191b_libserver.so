@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591973Z
+addr = 0x15e2070
+size = 0x11
+name = "CBasePlayerPawn_RemovePlayerItem"
+type = "long long"
+
+[header]
+name = "CBasePlayerPawn_RemovePlayerItem"
+addr = 0x15e2070
+type = "long long"
+
+[header.args]

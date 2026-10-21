@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.592386Z
+addr = 0x1990fd0
+size = 0x80
+name = "CSource2Server_PreShutdown"
+
+[header]
+name = "CSource2Server_PreShutdown"
+addr = 0x1990fd0
+
+[header.args]

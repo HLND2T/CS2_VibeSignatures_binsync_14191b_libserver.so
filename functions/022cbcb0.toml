@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592642Z
+addr = 0x22cbcb0
+size = 0x16a
+name = "CEntitySystem_QueueSpawnEntity"
+type = "long long"
+
+[header]
+name = "CEntitySystem_QueueSpawnEntity"
+addr = 0x22cbcb0
+type = "long long"
+
+[header.args]

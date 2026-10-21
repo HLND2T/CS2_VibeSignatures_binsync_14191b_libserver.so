@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.592357Z
+addr = 0x198c020
+size = 0x17
+name = "CSource2Server_GetAllServerClasses"
+
+[header]
+name = "CSource2Server_GetAllServerClasses"
+addr = 0x198c020
+
+[header.args]

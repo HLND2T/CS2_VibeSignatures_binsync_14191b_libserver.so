@@ -1,0 +1,10 @@
+last_change = 2026-10-21T10:43:08.592369Z
+addr = 0x198ec00
+size = 0x83
+name = "CSource2Server_GameCreateNetworkStringTables"
+
+[header]
+name = "CSource2Server_GameCreateNetworkStringTables"
+addr = 0x198ec00
+
+[header.args]

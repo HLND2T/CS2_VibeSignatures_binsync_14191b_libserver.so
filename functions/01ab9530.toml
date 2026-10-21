@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592513Z
+addr = 0x1ab9530
+size = 0x184
+name = "CPhysExplosion_Explode"
+type = "long long"
+
+[header]
+name = "CPhysExplosion_Explode"
+addr = 0x1ab9530
+type = "long long"
+
+[header.args]

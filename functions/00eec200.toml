@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591664Z
+addr = 0xeec200
+size = 0x21e
+name = "IGameSystem_LoopDestroyAllSystems"
+type = "void"
+
+[header]
+name = "IGameSystem_LoopDestroyAllSystems"
+addr = 0xeec200
+type = "void"
+
+[header.args]

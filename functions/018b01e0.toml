@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:31.222667Z
+addr = 0x18b01e0
+size = 0x1e8
+name = "CBaseEntity_Spawn"
+type = "long long"
+
+[header]
+name = "CBaseEntity_Spawn"
+addr = 0x18b01e0
+type = "long long"
+
+[header.args]

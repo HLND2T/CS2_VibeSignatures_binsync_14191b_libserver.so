@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592437Z
+addr = 0x19acfa0
+size = 0x3d9
+name = "CSource2GameClients_SendHLTVStatusMessage"
+type = "long long"
+
+[header]
+name = "CSource2GameClients_SendHLTVStatusMessage"
+addr = 0x19acfa0
+type = "long long"
+
+[header.args]

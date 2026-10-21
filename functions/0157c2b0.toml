@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591912Z
+addr = 0x157c2b0
+size = 0x615
+name = "CCSPlayerController_ChangeTeam"
+type = "void"
+
+[header]
+name = "CCSPlayerController_ChangeTeam"
+addr = 0x157c2b0
+type = "void"
+
+[header.args]

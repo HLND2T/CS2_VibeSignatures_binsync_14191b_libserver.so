@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592266Z
+addr = 0x1848540
+size = 0x177
+name = "CEntFireOutputAutoCompletionFunctor_FireOutput"
+type = "long long"
+
+[header]
+name = "CEntFireOutputAutoCompletionFunctor_FireOutput"
+addr = 0x1848540
+type = "long long"
+
+[header.args]

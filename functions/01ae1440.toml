@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.592518Z
+addr = 0x1ae1440
+size = 0x2200
+name = "CPlayerCommandQueue_OnSimulateUserCommands"
+type = "long long"
+
+[header]
+name = "CPlayerCommandQueue_OnSimulateUserCommands"
+addr = 0x1ae1440
+type = "long long"
+
+[header.args]

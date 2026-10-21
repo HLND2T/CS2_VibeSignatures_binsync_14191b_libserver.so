@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:08.591632Z
+addr = 0xd58620
+size = 0x35b
+name = "CBaseEntity_SetGravityScale"
+type = "void"
+
+[header]
+name = "CBaseEntity_SetGravityScale"
+addr = 0xd58620
+type = "void"
+
+[header.args]

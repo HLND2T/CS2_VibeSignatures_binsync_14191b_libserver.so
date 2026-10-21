@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:27.412645Z
+addr = 0x16f2960
+size = 0xa7
+name = "CGameEntitySystem_OnAddEntity"
+type = "void"
+
+[header]
+name = "CGameEntitySystem_OnAddEntity"
+addr = 0x16f2960
+type = "void"
+
+[header.args]

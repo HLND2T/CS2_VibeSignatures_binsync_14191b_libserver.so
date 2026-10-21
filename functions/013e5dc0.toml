@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:43:24.573137Z
+addr = 0x13e5dc0
+size = 0x1f62
+name = "CCSGameRules_TerminateRound"
+type = "long long"
+
+[header]
+name = "CCSGameRules_TerminateRound"
+addr = 0x13e5dc0
+type = "long long"
+
+[header.args]
